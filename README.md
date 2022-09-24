@@ -4,8 +4,8 @@ This repository is the code and analysis by [Edd Webster](https://twitter.com/ed
 
 <br>
 <p align="center">
-  <a href="https://analyticsfc.co.uk/"><img src="img/logos/analytics_fc_logo_no_bg.png" alt="Analytics FC" width="43%" style="vertical-align:middle">
-  <a href="https://analyticsfc.co.uk/"><img src="img/logos/analytics_fc_logo_no_bg.png" alt="Analytics FC" width="43%" style="vertical-align:middle">
+  <a href="https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w"><img src="img/logos/FoTLogo.png" alt="Friends of Tracking" width="43%" style="vertical-align:middle">
+  <a href="https://www.uu.se/en"><img src="img/logos/uppsala_university.png" alt="Uppsala University" width="43%" style="vertical-align:middle">
   <a href="https://www.eddwebster.com/"><img src="img/edd_webster/edd_webster_analytics_logo_black_nobg.png" alt="Edd Webster Football Analytics" width="17%" style="vertical-align:middle"></a>
 </p>
 <br>
