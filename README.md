@@ -10,6 +10,13 @@ This repository is the code and analysis by [Edd Webster](https://twitter.com/ed
 </p>
 <br>
 
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=eddwebster.mathematical-modelling-of-football)
+<a href="https://trackgit.com"><img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/l8hjfkr85bptej656rkl" alt="trackgit-views"/></a>
+![GitHub Stars](https://img.shields.io/github/stars/eddwebster/football_analytics?style=plastic)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/eddwebster/mathematical-modelling-of-football?style=plastic)
+![GitHub Commit Activity](https://img.shields.io/github/commit-activity/m/eddwebster/mathematical-modelling-of-football.svg)
+![GitHub Repository Size](https://img.shields.io/github/repo-size/eddwebster/mathematical-modelling-of-football?style=plastic)
+[![Licence](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://raw.githubusercontent.com/eddwebster/mathematical-modelling-of-football/master/LICENSE)
 [![Personal Website Badge](https://img.shields.io/badge/eddwebster.com-019FD9?style=flat&logo=web&logoColor=white)](https://www.eddwebster.com/)
 [![Email Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:edd.j.webster@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/eddwebster)
