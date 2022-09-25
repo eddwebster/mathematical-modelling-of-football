@@ -9,8 +9,7 @@ This repository is the code and analysis by [Edd Webster](https://twitter.com/ed
   <a href="https://www.eddwebster.com/"><img src="img/edd_webster/edd_webster_analytics_logo_black_nobg.png" alt="Edd Webster Football Analytics" width="17%" style="vertical-align:middle"></a>
 </p>
 <br>
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=eddwebster.mathematical-modelling-of-football)
+    
 <a href="https://trackgit.com"><img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/l8hjfkr85bptej656rkl" alt="trackgit-views"/></a>
 ![GitHub Stars](https://img.shields.io/github/stars/eddwebster/football_analytics?style=plastic)
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/eddwebster/mathematical.modelling.of.football?style=plastic)
