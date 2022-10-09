@@ -72,26 +72,35 @@ The code in this repository uses the following libraries:
 
 The contents of this GitHub repository is organised as the following (to be updated):
 
-    edd webster analytics fc github repository
+    mathematical-modelling-of-football
     │
     ├── data
     │   │
-    │   └── wyscout
-    │      │
-    │      ├── analytics_fc
-    │      │   │
-    │      │   ├── raw
-    │      │   └── unified
-    │      │
-    │      ├── doc
-    │      ├── img
-    │      ├── LICENSE.pdf
-    │      └── README.md
+    │   ├── wyscout 
+    │   │   │
+    │   │   ├── data
+    │   │   ├── doc
+    │   │   ├── img
+    │   │   ├── LICENSE.pdf
+    │   │   └── README.md
+    │   │      
+    │   └── statsbomb
+    │       │
+    │       ├── raw
+    │       ├── engineered
+    │       └── unified
     │
     ├── docs
-    │   └── ....pdf
+    │   ├── Open Data 360 Frames v1.0.0.pdf
+    │   ├── Open Data Competitions v2.0.0.pdf
+    │   ├── Open Data Events v4.0.0.pdf
+    │   ├── Open Data Lineups v2.0.0.pdf
+    │   ├── Open Data Matches v3.0.0.pdf
+    │   ├── StatsBomb Open Data Specification v1.1.pdf
+    │   └── technical_test.pdf
     │
     ├── img
+    │   ├── eddwebster
     │   ├── fig
     │   └── logos
     │ 
@@ -142,8 +151,13 @@ For code used to produce the analysis of this technical challenge, see the [`not
 <h2 id="documentation"> :page_facing_up: Documentation</h2>
 
 All documentation saved locally in the [`docs`](https://github.com/mathematical-modelling-of-football/tree/main/docs) subfolder, including (to be updated):
-*    ...
-*    ...
-*    ...
+*    [The Technical Test Brief](https://github.com/eddwebster/statsbomb/blob/main/docs/technical_test.pdf); and
+*    [StatsBomb Open Data Documentation](https://github.com/statsbomb/open-data/tree/master/doc):
+     +    [Open Data Competitions v2.0.0](https://github.com/statsbomb/open-data/blob/master/doc/Open%20Data%20Competitions%20v2.0.0.pdf).pdf describes the JSON format of the competitions.json file in the data.
+     +    [Open Data Events v4.0.0](https://github.com/statsbomb/open-data/blob/master/doc/Open%20Data%20Events%20v4.0.0.pdf).pdf describes the format of the event JSON files in the data/events/ directory.
+     +    [Open Data Lineups v2.0.0](https://github.com/statsbomb/open-data/blob/master/doc/Open%20Data%20Lineups%20v2.0.0.pdf).pdf describes the format of the lineup JSON files in the data/lineups/ folder.
+     +    [Open Data Matches v3.0.0](https://github.com/statsbomb/open-data/blob/master/doc/Open%20Data%20Matches%20v3.0.0.pdf).pdf describes the format of the match listing JSON files in the data/matches/ folder.
+     +    [Open Data 360 Frames v1.0.0.pdf](https://github.com/statsbomb/open-data/blob/master/doc/Open%20Data%20360%20Frames%20v1.0.0.pdf) document describes the JSON format for StatsBomb’s open 360 data.
+     +    [StatsBomb Open Data Specification v1.1](https://github.com/statsbomb/open-data/blob/master/doc/StatsBomb%20Open%20Data%20Specification%20v1.1.pdf).pdf gives detail about the meaning an attributes of specific events in the data.
 
 <a href="#table-of-contents">Back to Contents</a>
